@@ -1,0 +1,16 @@
+{
+  "name": "worker-threads-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
+  }
+}
